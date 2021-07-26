@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de-DE" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1595297833 - Field 2071670972 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt,Shipment</source>
+          <target>Wareneingang,Warenausgang</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Purchase Split Line - Field Whse. Document Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595297833 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Remaining Qty. can not be negative.</source>
+          <target>Die Restmenge darf nicht negativ sein.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Purchase Split Line - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Table 1595297833 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The %1 %2 is already used in the attached Purchase Line. \Please choose a different %1.</source>
+          <target>Der %1 %2 wird bereits in der zugehörigen EK-Zeile verwendet. \Bitte wählen Sie einen anderen %1 aus.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Purchase Split Line - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Table 1595297833 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The variant code %1 does not exist. \Would you like to add the variant?</source>
+          <target>Der Variant Code %1 existiert nicht. \Möchten Sie die Variante einfügen?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Purchase Split Line - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2497120282 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is nothing to Split.</source>
+          <target>Es gibt nichts zu Splitten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purch. Line Split Mgt. - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2497120282 - Method 3726139125 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The %1 must be saved before this change.</source>
+          <target>Die %1 muss vor dieser Änderung gespeichert werden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purch. Line Split Mgt. - Method UpdatePurchLine - NamedType lText001</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
