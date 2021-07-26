@@ -1,0 +1,2037 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-IN" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="TableExtension 1159850793 - Field 1767556300 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC No.</source>
+          <target>LC No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension0 - Field LC No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1159850793 - Field 1767556300 - Method 2126772001 - NamedType 2324023380" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The LC which you have selected is Foreign type you cannot utilise for this order.</source>
+          <target>The LC which you have selected is Foreign type you cannot utilise for this order.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension0 - Field LC No. - Method OnValidate - NamedType Text13700</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1159850793 - Field 1767556300 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC No.</source>
+          <target>LC No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension0 - Field LC No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1159850793 - Field 1767556300 - Method 2126772001 - NamedType 2324023380" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The LC which you have selected is Foreign type you cannot utilise for this order.</source>
+          <target>The LC which you have selected is Foreign type you cannot utilise for this order.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension0 - Field LC No. - Method OnValidate - NamedType Text13700</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Detail</source>
+          <target>LC Detail</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 3773776616 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Type</source>
+          <target>Transaction Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field Transaction Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 3773776616 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sale,Purchase</source>
+          <target>Sale,Purchase</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field Transaction Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 914133948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issued To/Received From</source>
+          <target>Issued To/Received From</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field Issued To/Received From - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 1409875294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issuing Bank</source>
+          <target>Issuing Bank</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field Issuing Bank - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 2251311984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date of Issue</source>
+          <target>Date of Issue</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field Date of Issue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 3142631117 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiry Date</source>
+          <target>Expiry Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field Expiry Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 4032576746 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type of LC</source>
+          <target>Type of LC</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field Type of LC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 4032576746 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inland,Foreign</source>
+          <target>Inland,Foreign</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field Type of LC - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 834894123 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type of Credit Limit</source>
+          <target>Type of Credit Limit</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field Type of Credit Limit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 834894123 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fixed,Revolving</source>
+          <target>Fixed,Revolving</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field Type of Credit Limit - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <target>Currency Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target>No. Series</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 1924059840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Value</source>
+          <target>LC Value</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field LC Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 429043112 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value Utilised</source>
+          <target>Value Utilised</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field Value Utilised - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 2975378708 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remaining Amount</source>
+          <target>Remaining Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field Remaining Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 1778072510 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Closed</source>
+          <target>Closed</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field Closed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 4020758431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Released</source>
+          <target>Released</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field Released - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 1022833295 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Revolving Cr. Limit Types</source>
+          <target>Revolving Cr. Limit Types</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field Revolving Cr. Limit Types - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 1022833295 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Automatic,Manual</source>
+          <target> ,Automatic,Manual</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field Revolving Cr. Limit Types - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 2348010126 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Latest Amended Value</source>
+          <target>Latest Amended Value</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field Latest Amended Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 541734643 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange Rate</source>
+          <target>Exchange Rate</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field Exchange Rate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 3063560574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Value LCY</source>
+          <target>LC Value LCY</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field LC Value LCY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 124629308 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receiving Bank</source>
+          <target>Receiving Bank</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field Receiving Bank - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 1767556300 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC No.</source>
+          <target>LC No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field LC No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - Field 956809850 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Renewed Amount</source>
+          <target>Renewed Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - Field Renewed Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - NamedType 2324023380" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiry Date cannot be before Issue Date.</source>
+          <target>Expiry Date cannot be before Issue Date.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - NamedType Text13700</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - NamedType 1686326763" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot modify.</source>
+          <target>You cannot modify.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - NamedType Text13701</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - NamedType 3599416614" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot delete.</source>
+          <target>You cannot delete.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - NamedType Text13702</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - NamedType 2961719997" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issue Date cannot be after Expiry Date.</source>
+          <target>Issue Date cannot be after Expiry Date.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - NamedType Text13703</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - NamedType 4068204208" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC(s) value exceeds the credit limit available for this bank.</source>
+          <target>LC(s) value exceeds the credit limit available for this bank.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - NamedType Text13704</note>
+        </trans-unit>
+        <trans-unit id="Table 3523005010 - NamedType 3430507591" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank''s credit limit is zero.</source>
+          <target>Bank''s credit limit is zero.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Detail - NamedType Text13705</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Amended Details</source>
+          <target>LC Amended Details</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 1767556300 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC No.</source>
+          <target>LC No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field LC No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 3773776616 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Type</source>
+          <target>Transaction Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field Transaction Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 3773776616 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sale,Purchase</source>
+          <target>Sale,Purchase</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field Transaction Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 914133948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issued To/Received From</source>
+          <target>Issued To/Received From</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field Issued To/Received From - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 1409875294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issuing Bank</source>
+          <target>Issuing Bank</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field Issuing Bank - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 2251311984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date of Issue</source>
+          <target>Date of Issue</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field Date of Issue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 3142631117 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiry Date</source>
+          <target>Expiry Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field Expiry Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 4032576746 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type of LC</source>
+          <target>Type of LC</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field Type of LC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 4032576746 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inland,Foreign</source>
+          <target>Inland,Foreign</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field Type of LC - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 834894123 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type of Credit Limit</source>
+          <target>Type of Credit Limit</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field Type of Credit Limit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 834894123 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fixed,Revolving</source>
+          <target>Fixed,Revolving</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field Type of Credit Limit - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <target>Currency Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target>No. Series</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 1924059840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Value</source>
+          <target>LC Value</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field LC Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 429043112 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value Utilised</source>
+          <target>Value Utilised</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field Value Utilised - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 2975378708 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remaining Amount</source>
+          <target>Remaining Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field Remaining Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 1562496115 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Amended Date</source>
+          <target>LC Amended Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field LC Amended Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 4020758431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Released</source>
+          <target>Released</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field Released - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 1778072510 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Closed</source>
+          <target>Closed</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field Closed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 541734643 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange Rate</source>
+          <target>Exchange Rate</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field Exchange Rate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 3063560574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Value LCY</source>
+          <target>LC Value LCY</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field LC Value LCY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 124629308 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receiving Bank</source>
+          <target>Receiving Bank</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field Receiving Bank - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 3639989570 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank LC No.</source>
+          <target>Bank LC No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field Bank LC No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 3708455165 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Amended No.</source>
+          <target>Bank Amended No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field Bank Amended No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 1022833295 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Revolving Cr. Limit Types</source>
+          <target>Revolving Cr. Limit Types</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field Revolving Cr. Limit Types - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 1022833295 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Automatic,Manual</source>
+          <target> ,Automatic,Manual</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field Revolving Cr. Limit Types - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 2740009583 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Previous LC Value</source>
+          <target>Previous LC Value</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field Previous LC Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - Field 3426896982 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Previous Expiry Date</source>
+          <target>Previous Expiry Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - Field Previous Expiry Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot modify the Document.</source>
+          <target>You cannot modify the Document.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot delete the document.</source>
+          <target>You cannot delete the document.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiry Date cannot be before Issue Date.</source>
+          <target>Expiry Date cannot be before Issue Date.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC(s) value exceeds the credit limit available for this bank.</source>
+          <target>LC(s) value exceeds the credit limit available for this bank.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Banks credit limit is Zero.</source>
+          <target>Banks credit limit is Zero.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Table 3948483409 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Value cannot be lower than the Value Utilised.</source>
+          <target>LC Value cannot be lower than the Value Utilised.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Amended Details - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Table 2690628332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Setup</source>
+          <target>LC Setup</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2690628332 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target>Primary Key</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2690628332 - Field 2214373071 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Detail Nos.</source>
+          <target>Detail Nos.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Setup - Field Detail Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2690628332 - Field 3003287522 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amended Nos.</source>
+          <target>Amended Nos.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Setup - Field Amended Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3096400930 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank LC Limit Details</source>
+          <target>Bank LC Limit Details</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bank LC Limit Details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3096400930 - Field 310497131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank No.</source>
+          <target>Bank No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bank LC Limit Details - Field Bank No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3096400930 - Field 2110632758 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From Date</source>
+          <target>From Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bank LC Limit Details - Field From Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3096400930 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bank LC Limit Details - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3096400930 - Field 2602521813 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Utilised</source>
+          <target>Amount Utilised</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bank LC Limit Details - Field Amount Utilised - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3096400930 - Field 2975378708 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remaining Amount</source>
+          <target>Remaining Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bank LC Limit Details - Field Remaining Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3096400930 - Field 874820963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Utilised Amended</source>
+          <target>Amount Utilised Amended</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bank LC Limit Details - Field Amount Utilised Amended - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3096400930 - Field 995090288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Filter</source>
+          <target>Date Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bank LC Limit Details - Field Date Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3096400930 - Field 2565971985 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To Date</source>
+          <target>To Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bank LC Limit Details - Field To Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3926205178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Register</source>
+          <target>LC Register</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Register - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3926205178 - Field 1767556300 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC No.</source>
+          <target>LC No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Register - Field LC No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3926205178 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target>Document No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Register - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3926205178 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Posting Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Register - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3926205178 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>Line No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Register - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4196091310 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Orders</source>
+          <target>LC Orders</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4196091310 - Field 1767556300 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC No.</source>
+          <target>LC No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Orders - Field LC No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4196091310 - Field 3773776616 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Type</source>
+          <target>Transaction Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Orders - Field Transaction Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4196091310 - Field 3773776616 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sale,Purchase</source>
+          <target>Sale,Purchase</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Orders - Field Transaction Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 4196091310 - Field 914133948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issued To/Received From</source>
+          <target>Issued To/Received From</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Orders - Field Issued To/Received From - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4196091310 - Field 2202932243 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order No.</source>
+          <target>Order No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Orders - Field Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4196091310 - Field 4112852368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Date</source>
+          <target>Shipment Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Orders - Field Shipment Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4196091310 - Field 4271610167 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Value</source>
+          <target>Order Value</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Orders - Field Order Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4196091310 - Field 1711935022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Renewed</source>
+          <target>Renewed</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Orders - Field Renewed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4196091310 - Field 981266814 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Received Bank Receipt No.</source>
+          <target>Received Bank Receipt No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Orders - Field Received Bank Receipt No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3993276822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Terms</source>
+          <target>LC Terms</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Terms - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3993276822 - Field 1767556300 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC No.</source>
+          <target>LC No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Terms - Field LC No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3993276822 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Terms - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3993276822 - Field 1779603042 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attachment No.</source>
+          <target>Attachment No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Terms - Field Attachment No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3993276822 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>Line No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Terms - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3993276822 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target>Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Terms - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3993276822 - Field 4020758431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Released</source>
+          <target>Released</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Terms - Field Released - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3993276822 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You have canceled the create process.</source>
+          <target>You have canceled the create process.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Terms - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Table 3993276822 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replace existing attachment?</source>
+          <target>Replace existing attachment?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Terms - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Table 3993276822 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You have canceled the import process.</source>
+          <target>You have canceled the import process.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LC Terms - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Table 3790475303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bills for Collection</source>
+          <target>Bills for Collection</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bills for Collection - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3790475303 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bills for Collection - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3790475303 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bills for Collection - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3790475303 - Field 914133948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issued To/Received From</source>
+          <target>Issued To/Received From</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bills for Collection - Field Issued To/Received From - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3790475303 - Field 1409875294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issuing Bank</source>
+          <target>Issuing Bank</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bills for Collection - Field Issuing Bank - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3790475303 - Field 2251311984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date of Issue</source>
+          <target>Date of Issue</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bills for Collection - Field Date of Issue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3790475303 - Field 3142631117 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiry Date</source>
+          <target>Expiry Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bills for Collection - Field Expiry Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3790475303 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <target>Currency Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bills for Collection - Field Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3790475303 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target>No. Series</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bills for Collection - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3790475303 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Value</source>
+          <target>LC Value</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bills for Collection - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3790475303 - Field 429043112 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value Utilised</source>
+          <target>Value Utilised</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bills for Collection - Field Value Utilised - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3790475303 - Field 2975378708 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remaining Amount</source>
+          <target>Remaining Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bills for Collection - Field Remaining Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3790475303 - Field 1778072510 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Closed</source>
+          <target>Closed</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bills for Collection - Field Closed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3790475303 - Field 4020758431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Released</source>
+          <target>Released</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bills for Collection - Field Released - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3790475303 - Field 2348010126 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Latest Amended Value</source>
+          <target>Latest Amended Value</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bills for Collection - Field Latest Amended Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3790475303 - Field 541734643 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange Rate</source>
+          <target>Exchange Rate</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bills for Collection - Field Exchange Rate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3790475303 - Field 688027766 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Value LCY</source>
+          <target>LC Value LCY</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bills for Collection - Field Amount LCY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3790475303 - Field 956809850 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Renewed Amount</source>
+          <target>Renewed Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bills for Collection - Field Renewed Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3790475303 - NamedType 2324023380" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiry Date cannot be before Issue Date.</source>
+          <target>Expiry Date cannot be before Issue Date.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bills for Collection - NamedType Text13700</note>
+        </trans-unit>
+        <trans-unit id="Table 3790475303 - NamedType 1686326763" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot modify.</source>
+          <target>You cannot modify.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bills for Collection - NamedType Text13701</note>
+        </trans-unit>
+        <trans-unit id="Table 3790475303 - NamedType 3599416614" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot delete.</source>
+          <target>You cannot delete.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bills for Collection - NamedType Text13702</note>
+        </trans-unit>
+        <trans-unit id="Table 3790475303 - NamedType 2961719997" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issue Date cannot be after Expiry Date.</source>
+          <target>Issue Date cannot be after Expiry Date.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bills for Collection - NamedType Text13703</note>
+        </trans-unit>
+        <trans-unit id="Table 3790475303 - NamedType 4068204208" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bills for Collection(s) value exceeds the credit limit available for this bank.</source>
+          <target>LC(s) value exceeds the credit limit available for this bank.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bills for Collection - NamedType Text13704</note>
+        </trans-unit>
+        <trans-unit id="Table 3790475303 - NamedType 3430507591" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank''s credit limit is zero.</source>
+          <target>Bank''s credit limit is zero.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bills for Collection - NamedType Text13705</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BFC Amended Details</source>
+          <target>BFC Amended Details</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - Field 2466180892 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC No.</source>
+          <target>LC No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - Field BFC No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - Field 914133948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issued To/Received From</source>
+          <target>Issued To/Received From</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - Field Issued To/Received From - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - Field 1409875294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issuing Bank</source>
+          <target>Issuing Bank</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - Field Issuing Bank - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - Field 2251311984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date of Issue</source>
+          <target>Date of Issue</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - Field Date of Issue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - Field 3142631117 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiry Date</source>
+          <target>Expiry Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - Field Expiry Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <target>Currency Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - Field Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target>No. Series</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - Field 3663578365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Value</source>
+          <target>LC Value</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - Field BFC Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - Field 429043112 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value Utilised</source>
+          <target>Value Utilised</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - Field Value Utilised - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - Field 2975378708 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remaining Amount</source>
+          <target>Remaining Amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - Field Remaining Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - Field 1481968931 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Amended Date</source>
+          <target>LC Amended Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - Field BFC Amended Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - Field 4020758431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Released</source>
+          <target>Released</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - Field Released - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - Field 1778072510 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Closed</source>
+          <target>Closed</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - Field Closed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - Field 541734643 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange Rate</source>
+          <target>Exchange Rate</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - Field Exchange Rate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - Field 4143795295 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Value LCY</source>
+          <target>LC Value LCY</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - Field BFC Amount LCY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - Field 124629308 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receiving Bank</source>
+          <target>Receiving Bank</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - Field Receiving Bank - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - Field 3708455165 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Amended No.</source>
+          <target>Bank Amended No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - Field Bank Amended No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - Field 1022833295 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Revolving Cr. Limit Types</source>
+          <target>Revolving Cr. Limit Types</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - Field Revolving Cr. Limit Types - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - Field 1022833295 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Automatic,Manual</source>
+          <target> ,Automatic,Manual</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - Field Revolving Cr. Limit Types - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - Field 3015602206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Previous LC Value</source>
+          <target>Previous LC Value</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - Field Previous BFC Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - Field 3426896982 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Previous Expiry Date</source>
+          <target>Previous Expiry Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - Field Previous Expiry Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot modify the Document.</source>
+          <target>You cannot modify the Document.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot delete the document.</source>
+          <target>You cannot delete the document.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiry Date cannot be before Issue Date.</source>
+          <target>Expiry Date cannot be before Issue Date.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bills for Collection(s) Amount exceeds the credit limit available for this bank.</source>
+          <target>LC(s) value exceeds the credit limit available for this bank.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Banks credit limit is Zero.</source>
+          <target>Banks credit limit is Zero.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Table 1504672737 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bills for Collection Amount cannot be lower than the Value Utilised.</source>
+          <target>LC Value cannot be lower than the Value Utilised.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Amended Details - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Table 969844126 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Orders</source>
+          <target>LC Orders</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 969844126 - Field 2466180892 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BFC No.</source>
+          <target>BFC No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Orders - Field BFC No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 969844126 - Field 914133948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issued To/Received From</source>
+          <target>Issued To/Received From</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Orders - Field Issued To/Received From - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 969844126 - Field 2202932243 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order No.</source>
+          <target>Order No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Orders - Field Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 969844126 - Field 4112852368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Date</source>
+          <target>Shipment Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Orders - Field Shipment Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 969844126 - Field 4271610167 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Value</source>
+          <target>Order Value</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Orders - Field Order Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 969844126 - Field 1711935022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Renewed</source>
+          <target>Renewed</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Orders - Field Renewed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 969844126 - Field 981266814 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Received Bank Receipt No.</source>
+          <target>Received Bank Receipt No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BFC Orders - Field Received Bank Receipt No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3639832950 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Close LCS</source>
+          <target>Close LCS</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Close LCS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3639832950 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Options</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Close LCS - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3639832950 - Control 351796228 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target>Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Close LCS - Control RecDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3639832950 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date cannot be empty.</source>
+          <target>Date cannot be empty.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Close LCS - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 3639832950 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing LC''s #1########</source>
+          <target>Processing LC''s #1########</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Close LCS - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 4034113728 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Renewal of LC's Credit Limit</source>
+          <target>Renewal of LC's Credit Limit</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Renewal of LC's Credit Limit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1160122248 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending LC's</source>
+          <target>Pending LC's</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pending LC's - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1160122248 - ReportDataItem 3523005010 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Amendments</source>
+          <target>LC Amendments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pending LC's - ReportDataItem LC Detail - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 1160122248 - NamedType 4133897719" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Detail</source>
+          <target>LC Detail</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pending LC's - NamedType LC_DetailCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1160122248 - NamedType 1987762555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target>Page</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pending LC's - NamedType CurrReport_PAGENOCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1160122248 - NamedType 4161337238" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC No.</source>
+          <target>LC No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pending LC's - NamedType LC_No_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1160122248 - NamedType 4130105009" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value Utilised</source>
+          <target>Value Utilised</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pending LC's - NamedType Value_UtilisedCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1160122248 - NamedType 4084019714" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Value LCY</source>
+          <target>LC Value LCY</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pending LC's - NamedType LC_Value_LCYCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1160122248 - NamedType 167084946" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiry Date</source>
+          <target>Expiry Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pending LC's - NamedType LC_Detail__Expiry_Date_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1272037399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Amendments</source>
+          <target>LC Amendments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LC Amendments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1272037399 - NamedType 4133897719" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Detail</source>
+          <target>LC Detail</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LC Amendments - NamedType LC_DetailCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1272037399 - NamedType 1987762555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target>Page</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LC Amendments - NamedType CurrReport_PAGENOCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1272037399 - NamedType 167084946" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiry Date</source>
+          <target>Expiry Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LC Amendments - NamedType LC_Detail__Expiry_Date_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1272037399 - NamedType 3821043759" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Amended Date</source>
+          <target>LC Amended Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LC Amendments - NamedType LC_Amended_Details__LC_Amended_Date_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1272037399 - NamedType 2634953394" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date of Issue</source>
+          <target>Date of Issue</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LC Amendments - NamedType LC_Detail__Date_of_Issue_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1272037399 - NamedType 2611221444" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiry Date</source>
+          <target>Expiry Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LC Amendments - NamedType LC_Amended_Details__Expiry_Date_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1272037399 - NamedType 3553772882" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amendments</source>
+          <target>Amendments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LC Amendments - NamedType AmendmentsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3193523785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Utilisations</source>
+          <target>LC Utilisations</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LC Utilisations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3193523785 - ReportDataItem 3523005010 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Utilised</source>
+          <target>LC Utilised</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LC Utilisations - ReportDataItem LC Detail - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 3193523785 - NamedType 4133897719" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Detail</source>
+          <target>LC Detail</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LC Utilisations - NamedType LC_DetailCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3193523785 - NamedType 1987762555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target>Page</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LC Utilisations - NamedType CurrReport_PAGENOCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3193523785 - NamedType 167084946" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiry Date</source>
+          <target>Expiry Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LC Utilisations - NamedType LC_Detail__Expiry_Date_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3193523785 - NamedType 2634953394" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date of Issue</source>
+          <target>Date of Issue</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LC Utilisations - NamedType LC_Detail__Date_of_Issue_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3193523785 - NamedType 4077148983" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Date</source>
+          <target>Shipment Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LC Utilisations - NamedType LC_Orders__Shipment_Date_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3193523785 - NamedType 2253614707" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Orders</source>
+          <target>Orders</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LC Utilisations - NamedType OrdersCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2134009789 - NamedType 2324023380" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to Release?</source>
+          <target>Do you want to Release?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Bills for Collection Mgt - NamedType Text13700</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2134009789 - NamedType 1686326763" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The BFC has been Released.</source>
+          <target>The LC has been Released.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Bills for Collection Mgt - NamedType Text13701</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2134009789 - NamedType 3599416614" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The BFC is already Released.</source>
+          <target>The LC is already Released.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Bills for Collection Mgt - NamedType Text13702</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2134009789 - NamedType 2961719997" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to Amend this Document ?</source>
+          <target>Do you want to Amend this Document ?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Bills for Collection Mgt - NamedType Text13703</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2134009789 - NamedType 4068204208" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Without releasing the previous amendment you cannot Amend again.</source>
+          <target>Without releasing the previous amendment you cannot Amend again.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Bills for Collection Mgt - NamedType Text13704</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2134009789 - NamedType 3430507591" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot Amended without releasing the document.</source>
+          <target>You cannot Amended without releasing the document.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Bills for Collection Mgt - NamedType Text13705</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2134009789 - NamedType 1048630146" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cannot Amend BFC %1. Status is closed.</source>
+          <target>Cannot Amend LC %1. Status is closed.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Bills for Collection Mgt - NamedType Text13706</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2134009789 - NamedType 410933529" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The BFC has been closed.</source>
+          <target>The LC has been closed.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Bills for Collection Mgt - NamedType Text13707</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2134009789 - NamedType 1517417740" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The BFC is already closed.</source>
+          <target>The LC is already closed.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Bills for Collection Mgt - NamedType Text13708</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2134009789 - NamedType 879721123" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to close BFC ?</source>
+          <target>Do you want to close LC ?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Bills for Collection Mgt - NamedType Text13709</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2134009789 - NamedType 3136824195" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The BFC Amendment has been Released.</source>
+          <target>The LC Amendment has been Released.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Bills for Collection Mgt - NamedType Text13710</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2134009789 - NamedType 3774520812" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The BFC Amendment is already Released.</source>
+          <target>The LC Amendment is already Released.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Bills for Collection Mgt - NamedType Text13711</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2134009789 - NamedType 117250133" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to Release Amendment?</source>
+          <target>Do you want to Release Amendment?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Bills for Collection Mgt - NamedType Text13712</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2134009789 - Method 3161844383 - NamedType 1686326763" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The BFC that you have attached is expired.</source>
+          <target>The LC that you have attached is expired.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Bills for Collection Mgt - Method CreateBFCOrder - NamedType Text13701</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2134009789 - Method 3161844383 - NamedType 3599416614" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The order value %1 cannot be greater than the BFC remaining value %2.</source>
+          <target>The order value %1 cannot be greater than the LC remaining value %2.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Bills for Collection Mgt - Method CreateBFCOrder - NamedType Text13702</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2134009789 - Method 619073457 - NamedType 1686326763" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The BFC that you have attached is expired.</source>
+          <target>The LC that you have attached is expired.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Bills for Collection Mgt - Method CreateBFCOrderUtilization - NamedType Text13701</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2134009789 - Method 619073457 - NamedType 3599416614" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The order value %1 cannot be greater than the BFC remaining value %2.</source>
+          <target>The order value %1 cannot be greater than the LC remaining value %2.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Bills for Collection Mgt - Method CreateBFCOrderUtilization - NamedType Text13702</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3485091576 - NamedType 2324023380" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to Release?</source>
+          <target>Do you want to Release?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Letter of Credit Mgt - NamedType Text13700</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3485091576 - NamedType 1686326763" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The LC has been Released.</source>
+          <target>The LC has been Released.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Letter of Credit Mgt - NamedType Text13701</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3485091576 - NamedType 3599416614" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The LC is already Released.</source>
+          <target>The LC is already Released.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Letter of Credit Mgt - NamedType Text13702</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3485091576 - NamedType 2961719997" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to Amend this Document ?</source>
+          <target>Do you want to Amend this Document ?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Letter of Credit Mgt - NamedType Text13703</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3485091576 - NamedType 4068204208" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Without releasing the previous amendment you cannot Amend again.</source>
+          <target>Without releasing the previous amendment you cannot Amend again.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Letter of Credit Mgt - NamedType Text13704</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3485091576 - NamedType 3430507591" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot Amended without releasing the document.</source>
+          <target>You cannot Amended without releasing the document.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Letter of Credit Mgt - NamedType Text13705</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3485091576 - NamedType 1048630146" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cannot Amend LC %1. Status is closed.</source>
+          <target>Cannot Amend LC %1. Status is closed.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Letter of Credit Mgt - NamedType Text13706</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3485091576 - NamedType 410933529" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The LC has been closed.</source>
+          <target>The LC has been closed.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Letter of Credit Mgt - NamedType Text13707</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3485091576 - NamedType 1517417740" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The LC is already closed.</source>
+          <target>The LC is already closed.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Letter of Credit Mgt - NamedType Text13708</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3485091576 - NamedType 879721123" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to close LC ?</source>
+          <target>Do you want to close LC ?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Letter of Credit Mgt - NamedType Text13709</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3485091576 - NamedType 3136824195" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The LC Amendment has been Released.</source>
+          <target>The LC Amendment has been Released.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Letter of Credit Mgt - NamedType Text13710</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3485091576 - NamedType 3774520812" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The LC Amendment is already Released.</source>
+          <target>The LC Amendment is already Released.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Letter of Credit Mgt - NamedType Text13711</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3485091576 - NamedType 117250133" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to Release Amendment?</source>
+          <target>Do you want to Release Amendment?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Letter of Credit Mgt - NamedType Text13712</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3485091576 - Method 3746250799 - NamedType 2324023380" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The LC which you have selected is Foreign type you cannot utilise for this order.</source>
+          <target>The LC which you have selected is Foreign type you cannot utilise for this order.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Letter of Credit Mgt - Method CreateLCOrder - NamedType Text13700</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3485091576 - Method 3746250799 - NamedType 1686326763" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The LC that you have attached is expired.</source>
+          <target>The LC that you have attached is expired.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Letter of Credit Mgt - Method CreateLCOrder - NamedType Text13701</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3485091576 - Method 3746250799 - NamedType 3599416614" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The order value %1 cannot be greater than the LC remaining value %2.</source>
+          <target>The order value %1 cannot be greater than the LC remaining value %2.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Letter of Credit Mgt - Method CreateLCOrder - NamedType Text13702</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3485091576 - Method 2621022337 - NamedType 1686326763" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The LC that you have attached is expired.</source>
+          <target>The LC that you have attached is expired.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Letter of Credit Mgt - Method CreateLCOrderUtilization - NamedType Text13701</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3485091576 - Method 2621022337 - NamedType 3599416614" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The order value %1 cannot be greater than the LC remaining value %2.</source>
+          <target>The order value %1 cannot be greater than the LC remaining value %2.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Letter of Credit Mgt - Method CreateLCOrderUtilization - NamedType Text13702</note>
+        </trans-unit>
+        <trans-unit id="Page 2690628332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Setup</source>
+          <target>LC Setup</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2690628332 - Control 1532816877 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Numbering</source>
+          <target>Numbering</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Setup - Control Numbering - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3523005010 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Detail</source>
+          <target>LC Detail</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3523005010 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target>General</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3523005010 - Control 1450094168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoicing</source>
+          <target>Invoicing</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail - Control Invoicing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3523005010 - Control 3279145446 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Value LCY</source>
+          <target>LC Value LCY</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail - Control LCValueLCY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3523005010 - Action 353513711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;LC Details</source>
+          <target>&amp;LC Details</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail - Action LCDetails - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3523005010 - Action 4272133130 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC &amp;Register</source>
+          <target>LC &amp;Register</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail - Action LCRegister - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3523005010 - Action 472015302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC &amp;Terms</source>
+          <target>LC &amp;Terms</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail - Action LCTerms - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3523005010 - Action 3239622190 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amendments</source>
+          <target>Amendments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail - Action Amendments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3523005010 - Action 3435539207 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Orders</source>
+          <target>Orders</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail - Action Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3523005010 - Action 1374505512 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Orders</source>
+          <target>Posted Orders</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail - Action PostedOrders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3523005010 - Action 1929393835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>F&amp;unctions</source>
+          <target>F&amp;unctions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail - Action Functions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3523005010 - Action 1576900122 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC &amp;Release</source>
+          <target>LC &amp;Release</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail - Action LCRelease - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3523005010 - Action 130448359 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC &amp;Amendments</source>
+          <target>LC &amp;Amendments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail - Action LCAmendments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3523005010 - Action 2369164355 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Close LC</source>
+          <target>Close LC</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail - Action CloseLC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3948483409 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Amended Details</source>
+          <target>LC Amended Details</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Amended Details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3948483409 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target>General</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Amended Details - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3948483409 - Control 1450094168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoicing</source>
+          <target>Invoicing</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Amended Details - Control Invoicing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3948483409 - Action 130448359 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC &amp;Amendments</source>
+          <target>LC &amp;Amendments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Amended Details - Action LCAmendments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3948483409 - Action 1791788253 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC &amp;Card</source>
+          <target>LC &amp;Card</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Amended Details - Action LCCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3948483409 - Action 1929393835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>F&amp;unctions</source>
+          <target>F&amp;unctions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Amended Details - Action Functions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3948483409 - Action 1576900122 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC &amp;Release</source>
+          <target>LC &amp;Release</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Amended Details - Action LCRelease - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3096400930 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank LC Limit Details</source>
+          <target>Bank LC Limit Details</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Bank LC Limit Details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3096400930 - Control 1855050404 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Utilised </source>
+          <target>Amount Utilised </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Bank LC Limit Details - Control Control1280004 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3993276822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Terms</source>
+          <target>LC Terms</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Terms - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3993276822 - Control 1159403147 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attachment</source>
+          <target>Attachment</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Terms - Control Attachment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3993276822 - Action 1929393835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>F&amp;unctions</source>
+          <target>F&amp;unctions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Terms - Action Functions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3993276822 - Action 3685084935 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Attachment</source>
+          <target>Open Attachment</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Terms - Action OpenAttachment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3993276822 - Action 1094850343 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Attachment</source>
+          <target>Create Attachment</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Terms - Action CreateAttachment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3993276822 - Action 1796859230 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Document</source>
+          <target>Import Document</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Terms - Action ImportDocument - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3993276822 - Action 2546799871 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export Attachment</source>
+          <target>Export Attachment</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Terms - Action ExportAttachment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3993276822 - Action 3533532881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remove Attachment</source>
+          <target>Remove Attachment</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Terms - Action RemoveAttachment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1290260848 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Detail List</source>
+          <target>LC Detail List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1290260848 - Action 353513711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;LC Details</source>
+          <target>&amp;LC Details</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail List - Action LCDetails - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1290260848 - Action 4272133130 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC &amp;Register</source>
+          <target>LC &amp;Register</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail List - Action LCRegister - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1290260848 - Action 472015302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC &amp;Terms</source>
+          <target>LC &amp;Terms</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail List - Action LCTerms - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1290260848 - Action 3239622190 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amendments</source>
+          <target>Amendments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail List - Action Amendments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1290260848 - Action 3435539207 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Orders</source>
+          <target>Orders</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail List - Action Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1290260848 - Action 1374505512 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Orders</source>
+          <target>Posted Orders</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail List - Action PostedOrders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1290260848 - Action 1929393835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>F&amp;unctions</source>
+          <target>F&amp;unctions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail List - Action Functions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1290260848 - Action 1576900122 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC &amp;Release</source>
+          <target>LC &amp;Release</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail List - Action LCRelease - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1290260848 - Action 130448359 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC &amp;Amendments</source>
+          <target>LC &amp;Amendments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail List - Action LCAmendments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1290260848 - Action 2369164355 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Close LC</source>
+          <target>Close LC</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Detail List - Action CloseLC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505828906 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Journal</source>
+          <target>LC Journal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505828906 - Control 874212758 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch Name</source>
+          <target>Batch Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Journal - Control CurrentJnlBatchName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505828906 - Control 422618514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Name</source>
+          <target>Account Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Journal - Control AccountName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505828906 - Control 1975045594 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Name</source>
+          <target>Account Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Journal - Control AccName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505828906 - Control 1526380555 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bal. Account Name</source>
+          <target>Bal. Account Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Journal - Control BalAccountName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505828906 - Control 1287395299 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bal. Account Name</source>
+          <target>Bal. Account Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Journal - Control BalAccName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505828906 - Control 3655304884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance</source>
+          <target>Balance</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Journal - Control Control1902759701 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505828906 - Control 25700210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance</source>
+          <target>Balance</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Journal - Control Balance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505828906 - Control 2859561221 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Balance</source>
+          <target>Total Balance</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Journal - Control Control1901652501 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505828906 - Control 938567880 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Balance</source>
+          <target>Total Balance</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Journal - Control TotalBalance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505828906 - Action 1735507514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Line</source>
+          <target>&amp;Line</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Journal - Action Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505828906 - Action 2173385693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <target>Dimensions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Journal - Action Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505828906 - Action 1267408499 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A&amp;ccount</source>
+          <target>A&amp;ccount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Journal - Action Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505828906 - Action 4125097576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card</source>
+          <target>Card</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Journal - Action Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505828906 - Action 1008043521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ledger E&amp;ntries</source>
+          <target>Ledger E&amp;ntries</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Journal - Action LedgerEntries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505828906 - Action 1929393835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>F&amp;unctions</source>
+          <target>F&amp;unctions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Journal - Action Functions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505828906 - Action 3302314122 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply Entries</source>
+          <target>Apply Entries</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Journal - Action ApplyEntries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505828906 - Action 3340896337 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert Conv. LCY Rndg. Lines</source>
+          <target>Insert Conv. LCY Rndg. Lines</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Journal - Action InsertConvLCYRndgLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505828906 - Action 2808404044 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>P&amp;osting</source>
+          <target>P&amp;osting</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Journal - Action Posting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505828906 - Action 4130217538 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reconcile</source>
+          <target>Reconcile</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Journal - Action Reconcile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505828906 - Action 913412068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Report</source>
+          <target>Test Report</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Journal - Action TestReport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505828906 - Action 2282416948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>P&amp;ost</source>
+          <target>P&amp;ost</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Journal - Action Post - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505828906 - Action 212181990 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post and &amp;Print</source>
+          <target>Post and &amp;Print</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Journal - Action PostandPrint - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3926205178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Register</source>
+          <target>LC Register</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Register - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3926205178 - Action 3538210097 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Navigate</source>
+          <target>&amp;Navigate</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Register - Action Navigate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4196091310 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Orders</source>
+          <target>LC Orders</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1980209433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Amended List</source>
+          <target>LC Amended List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LC Amended List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3790475303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bills for Collection</source>
+          <target>Bills for Collection</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Bills for Collection - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3790475303 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target>General</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Bills for Collection - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3790475303 - Control 1450094168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoicing</source>
+          <target>Invoicing</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Bills for Collection - Control Invoicing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3790475303 - Control 3279145446 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Value LCY</source>
+          <target>LC Value LCY</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Bills for Collection - Control LCValueLCY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3790475303 - Action 4040772287 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;BFC Details</source>
+          <target>&amp;LC Details</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Bills for Collection - Action BFCDetails - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3790475303 - Action 3239622190 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amendments</source>
+          <target>Amendments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Bills for Collection - Action Amendments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3790475303 - Action 3435539207 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Orders</source>
+          <target>Orders</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Bills for Collection - Action Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3790475303 - Action 1929393835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>F&amp;unctions</source>
+          <target>F&amp;unctions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Bills for Collection - Action Functions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3790475303 - Action 4015114154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BFC &amp;Release</source>
+          <target>LC &amp;Release</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Bills for Collection - Action BFCRelease - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3790475303 - Action 2839682935 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BFC &amp;Amendments</source>
+          <target>LC &amp;Amendments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Bills for Collection - Action BFCAmendments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3790475303 - Action 1478792035 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Close BFC</source>
+          <target>Close LC</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Bills for Collection - Action CloseBFC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1504672737 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BFC Amended Details</source>
+          <target>BFC Amended Details</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BFC Amended Details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1504672737 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target>General</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BFC Amended Details - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1504672737 - Action 2839682935 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BFC &amp;Amendments</source>
+          <target>LC &amp;Amendments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BFC Amended Details - Action BFCAmendments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1504672737 - Action 1167271949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BFC &amp;Card</source>
+          <target>BFC &amp;Card</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BFC Amended Details - Action BFCCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1504672737 - Action 1929393835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>F&amp;unctions</source>
+          <target>F&amp;unctions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BFC Amended Details - Action Functions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1504672737 - Action 4015114154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BFC &amp;Release</source>
+          <target>LC &amp;Release</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BFC Amended Details - Action BFCRelease - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1508695921 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bill for Collections List</source>
+          <target>Bill for Collections List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Bill for Collections List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1508695921 - Action 353513711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;LC Details</source>
+          <target>&amp;LC Details</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Bill for Collections List - Action LCDetails - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1508695921 - Action 3239622190 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amendments</source>
+          <target>Amendments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Bill for Collections List - Action Amendments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1508695921 - Action 3435539207 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Orders</source>
+          <target>Orders</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Bill for Collections List - Action Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1508695921 - Action 1929393835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>F&amp;unctions</source>
+          <target>F&amp;unctions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Bill for Collections List - Action Functions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1508695921 - Action 4015114154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BFC &amp;Release</source>
+          <target>LC &amp;Release</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Bill for Collections List - Action BFCRelease - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1508695921 - Action 2839682935 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BFC &amp;Amendments</source>
+          <target>LC &amp;Amendments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Bill for Collections List - Action BFCAmendments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1508695921 - Action 1478792035 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Close BFC</source>
+          <target>Close LC</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Bill for Collections List - Action CloseBFC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 872714217 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BFC Amended List</source>
+          <target>BFC Amended List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BFC Amended List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 969844126 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LC Orders</source>
+          <target>LC Orders</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BFC Orders - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

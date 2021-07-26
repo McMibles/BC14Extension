@@ -1,0 +1,20 @@
+{
+  "id": "b62d5637-abba-457e-a6d5-68259a462c2c",
+  "name": "BC14Extension",
+  "publisher": "Gems Consulting",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "14.0.0.0",
+  "showMyCode": true,
+  "runtime": "3.0",
+  "target": "Internal"
+}
